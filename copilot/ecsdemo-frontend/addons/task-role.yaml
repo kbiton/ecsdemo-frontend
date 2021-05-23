@@ -1,4 +1,4 @@
-# You can use any of these parameters to create conditions or mappings in your template.
+# YouT can use any of these parameters to create conditions or mappings in your template.
 Parameters:
   App:
     Type: String
